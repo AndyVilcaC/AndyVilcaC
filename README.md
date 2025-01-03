@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Andy Vilca</h1>
 <h3 align="center">Futuro analista de datos</h3>
 
-- 💬 Ask me about **Python, Java, C#, SQL y MongoDb**
+- 💬 Pregúntame sobre **Python, Java, C#, SQL y MongoDb**
 
-- 📫 How to reach me **andyvc663@gmail.com**
+- 📫 Como llegar a mi **andyvc663@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
