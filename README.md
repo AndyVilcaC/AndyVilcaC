@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Andy Vilca</h1>
-<h3 align="center">Futuro analista de datos</h3>
+<h3 align="center">Ingeniero de sistemas computacional</h3>
 
 - 💬 Pregúntame sobre **Python, Java, C#, SQL y MongoDb**
 
